@@ -201,8 +201,19 @@ We welcome contributions! Please see our contributing guidelines for:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is provided as-is for educational and research purposes. Some code components may be derived from various open-source projects and tutorials. Please ensure compliance with original source licenses when using or redistributing any part of this code.
 
 ## ⚠️ Disclaimer
 
-This software is for educational and research purposes only. Past performance does not guarantee future results. Always consult with qualified financial professionals before making investment decisions.
+**IMPORTANT NOTICE:**
+
+- This software is **strictly for educational and research purposes only**
+- The code may contain **reused and adapted components** from various sources and tutorials
+- **Past performance does not guarantee future results** in any financial market
+- This toolkit is **not intended for live trading** or actual investment decisions
+- **No financial advice is provided** - this is purely educational material
+- Users are **solely responsible** for any use of this code and its outcomes
+- **Always consult with qualified financial professionals** before making investment decisions
+- The authors assume **no liability** for any financial losses incurred through use of this software
+- Code is provided **without warranty** of any kind, express or implied
+- Users should **verify all calculations** and logic before any practical application
